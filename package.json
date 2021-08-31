@@ -1,0 +1,19 @@
+{
+  "name": "streaming-event-streaming",
+  "version": "1.0.0",
+  "description": "Object definitions and API contracts describing streaming events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andas-tech/streaming-event-streaming.git"
+  },
+  "author": "nseltzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andas-tech/streaming-event-streaming/issues"
+  },
+  "homepage": "https://github.com/andas-tech/streaming-event-streaming#readme"
+}
