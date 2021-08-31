@@ -1,6 +1,6 @@
 {
   "name": "streaming-event-streaming",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Object definitions and API contracts describing streaming events.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andas-tech/streaming-event-streaming/issues"
   },
-  "homepage": "https://github.com/andas-tech/streaming-event-streaming#readme"
+  "homepage": "https://github.com/andas-tech/streaming-event-streaming#readme",
+  "devDependencies": {
+    "eslint-config-airbnb": "^18.2.1"
+  }
 }
