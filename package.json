@@ -1,6 +1,6 @@
 {
-  "name": "streaming-event-streaming",
-  "version": "1.0.2",
+  "name": "@andas/streaming-events",
+  "version": "1.0.0",
   "description": "Object definitions and API contracts describing streaming events.",
   "main": "index.js",
   "scripts": {
