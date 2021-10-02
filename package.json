@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Object definitions and API contracts describing streaming events.",
   "main": "index.js",
-  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc -p ./tsconfig.json"
   },
   "repository": {
     "type": "git",
@@ -19,5 +18,8 @@
   "homepage": "https://github.com/andas-tech/streaming-event-streaming#readme",
   "devDependencies": {
     "eslint-config-airbnb": "^18.2.1"
+  },
+  "dependencies": {
+    "typescript": "^4.4.3"
   }
 }

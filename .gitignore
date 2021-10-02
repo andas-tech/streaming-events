@@ -6,6 +6,3 @@
 
 # Vendored dependencies
 node_modules/
-
-# Generated artifacts -- not needed
-dist/
